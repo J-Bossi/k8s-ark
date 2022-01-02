@@ -20,15 +20,15 @@ spec:
         imagePullPolicy: Always
         env:
           - name: ADMINPASSWORD
-            value: "admin"
-          - name: NBPLAYERS
-            value: "10"
+            value: "augustiner1328"
+          - name: SERVERPASSWORD
+            value: "augustiner1328"
           - name: SESSIONNAME
-            value: "k8s-ark"
+            value: "etownboys-ark"
           - name: SERVERMAP
             value: "TheIsland"
           - name: TZ
-            value: "France"
+            value: "Germany"
           - name: SERVERPORT
             value: "27018"
           - name: STEAMPORT
